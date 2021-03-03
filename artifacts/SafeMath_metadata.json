@@ -1,0 +1,47 @@
+{
+	"compiler": {
+		"version": "0.6.12+commit.27d51765"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"details": "Math operations with safety checks that revert on error",
+			"kind": "dev",
+			"methods": {},
+			"title": "SafeMath",
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"localhost/Eth_to_Bsc.sol": "SafeMath"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"localhost/Eth_to_Bsc.sol": {
+			"keccak256": "0xc986b3bdd2aee7d1348c7738ecc2c9c34a93596ecc94e34c56e9566775d7cb73",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://34ec209f5f2c2fa931015c5bb3212ec2ff5156df8bed84a391beb2e766c69dd9",
+				"dweb:/ipfs/QmQzKAt3CnHh7fbNMtCbYKmqqin2urjjD2mP47hM69gBHt"
+			]
+		}
+	},
+	"version": 1
+}
