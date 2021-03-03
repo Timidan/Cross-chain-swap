@@ -189,7 +189,7 @@ contract HydroTokenSwap is Ownable {
     using SafeMath for uint256;
     uint256 public contractTotalAmountSwapped;
 
-    address constant Hydro_ADDRESS= 0x5B387f4886F043f603f7d0cb55DBd727D6649C73;
+    address constant Hydro_ADDRESS= 0xa8377d8A0ee92120095bC7ae2d8A8E1973CcEa95;
     address Main_ADDRESS= 0xB9D736c48351Bad464710ee73BA80A0A659c1795;
     bool public isActive;
     
